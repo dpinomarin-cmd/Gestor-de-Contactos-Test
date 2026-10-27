@@ -6,7 +6,7 @@ package Modelo;
 
 /**
  *
- * @author usuario
+ * @author daniel
  */
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

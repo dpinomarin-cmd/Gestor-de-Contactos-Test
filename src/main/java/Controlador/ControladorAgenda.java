@@ -10,7 +10,7 @@ import Vista.VistaAgenda;
 
 /**
  *
- * @author Daniel
+ * @author daniel
  */
 public class ControladorAgenda {
     

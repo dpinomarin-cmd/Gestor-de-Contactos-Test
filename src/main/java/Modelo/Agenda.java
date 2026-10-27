@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author usuario
+ * @author daniel
  */
 public class Agenda {
 
